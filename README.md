@@ -3,10 +3,15 @@ In this project, I collect data using YouTube's API. I then prepare the data and
 
 
 Project Overview
+
 Objective: The goal of this project is to analyze YouTube video performance data to better understand patterns within video engagement based on video metadata.
+
 Key Question: Based on the features present in the data, can the performance of a video (in views) be predicted? Which features influence that outcome the most?
+
 Dataset: The dataset consists of publicly available data collected using YouTube’s API, including: video titles, view counts, like counts, comment counts, tags used, and video duration. It was collected from the University of Advancing Technology’s YouTube channel.
+
 Tools & Technologies: Python, Pandas, Seaborn, Matplotlib, Scikit-learn.
+
 Project Docs:
 https://colab.research.google.com/drive/1eTimZAOUgv--AWLKIDZ2naVof7QHH3jx
 https://colab.research.google.com/drive/1_9cJkO4DkoQtLnVZXWRa1PrxZtUHig9j
