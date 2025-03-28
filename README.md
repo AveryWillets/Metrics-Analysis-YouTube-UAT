@@ -12,11 +12,6 @@ Dataset: The dataset consists of publicly available data collected using YouTube
 
 Tools & Technologies: Python, Pandas, Seaborn, Matplotlib, Scikit-learn.
 
-Project Docs:
-https://colab.research.google.com/drive/1eTimZAOUgv--AWLKIDZ2naVof7QHH3jx
-https://colab.research.google.com/drive/1_9cJkO4DkoQtLnVZXWRa1PrxZtUHig9j
-https://colab.research.google.com/drive/1xlfnptmX2S6EErh4RNIvqO37i6kbJ0FP 
-
 Introduction
 
 Background: 
